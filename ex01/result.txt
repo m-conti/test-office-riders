@@ -1,0 +1,417 @@
+Number of random item in DB : 200
+DB DONE!
+
+Launch script :
+
+{ _id: 8,
+  total_orders: 9,
+  ca: 3016.4727836663124,
+  tva: 445.3927609762465,
+  average_basket: 335.16364262959024,
+  standard_deviation: 299969.69624814816 }
+{ _id: 12,
+  total_orders: 18,
+  ca: 5609.968274359677,
+  tva: 825.1140048080593,
+  average_basket: 311.6649041310932,
+  standard_deviation: 368731.8072101852 }
+{ _id: 4,
+  total_orders: 12,
+  ca: 2654.885635909355,
+  tva: 403.7705293381372,
+  average_basket: 221.24046965911293,
+  standard_deviation: 300034.257725 }
+{ _id: 11,
+  total_orders: 16,
+  ca: 3751.6664096765953,
+  tva: 544.2566688057881,
+  average_basket: 234.4791506047872,
+  standard_deviation: 297523.0339572917 }
+{ _id: 10,
+  total_orders: 16,
+  ca: 3948.3302443640655,
+  tva: 626.0281379824893,
+  average_basket: 246.7706402727541,
+  standard_deviation: 358287.74433541665 }
+{ _id: 5,
+  total_orders: 21,
+  ca: 7423.071447450885,
+  tva: 1262.4130860781772,
+  average_basket: 353.47959273575646,
+  standard_deviation: 291755.7038420635 }
+{ _id: 6,
+  total_orders: 18,
+  ca: 5137.932032426713,
+  tva: 747.5044956703074,
+  average_basket: 285.4406684681507,
+  standard_deviation: 312079.1777777778 }
+{ _id: 9,
+  total_orders: 14,
+  ca: 3473.4541655256617,
+  tva: 502.6800365177824,
+  average_basket: 248.10386896611868,
+  standard_deviation: 543332.2806059524 }
+{ _id: 2,
+  total_orders: 20,
+  ca: 5575.372298297715,
+  tva: 809.0782821335831,
+  average_basket: 278.76861491488575,
+  standard_deviation: 453753.3016208333 }
+{ _id: 3,
+  total_orders: 21,
+  ca: 4692.472182822003,
+  tva: 697.3044838756647,
+  average_basket: 223.45105632485726,
+  standard_deviation: 488611.04015396826 }
+{ _id: 1,
+  total_orders: 16,
+  ca: 4273.74789620792,
+  tva: 638.0147808376943,
+  average_basket: 267.109243512995,
+  standard_deviation: 326548.96764062496 }
+{ _id: 7,
+  total_orders: 19,
+  ca: 5427.466190363605,
+  tva: 816.6746017772631,
+  average_basket: 285.656115282295,
+  standard_deviation: 460334.67784736847 }
+
+real    0m0.477s
+user    0m0.387s
+sys     0m0.082s
+
+----------------------------------------------------
+
+Number of random item in DB : 600
+DB DONE!
+
+Launch script :
+
+{ _id: 7,
+  total_orders: 49,
+  ca: 12804.768899748384,
+  tva: 2085.8284385099723,
+  average_basket: 261.32181428057925,
+  standard_deviation: 462165.8309408163 }
+{ _id: 9,
+  total_orders: 44,
+  ca: 11036.289545761281,
+  tva: 1661.1200632046264,
+  average_basket: 250.8247624036655,
+  standard_deviation: 436752.2793056818 }
+{ _id: 2,
+  total_orders: 57,
+  ca: 11080.608236313901,
+  tva: 1595.1269288718304,
+  average_basket: 194.3966357248053,
+  standard_deviation: 406402.5362307018 }
+{ _id: 10,
+  total_orders: 35,
+  ca: 8913.02273569482,
+  tva: 1266.3387422752883,
+  average_basket: 254.65779244842344,
+  standard_deviation: 363291.8746352381 }
+{ _id: 1,
+  total_orders: 48,
+  ca: 13242.324502507181,
+  tva: 1972.4236862585594,
+  average_basket: 275.8817604688996,
+  standard_deviation: 275459.935415625 }
+{ _id: 3,
+  total_orders: 61,
+  ca: 14316.25331516375,
+  tva: 2249.3635293519965,
+  average_basket: 234.6926772977664,
+  standard_deviation: 469152.5748693989 }
+{ _id: 8,
+  total_orders: 42,
+  ca: 12863.732666081583,
+  tva: 2030.0815661658378,
+  average_basket: 306.27934919241864,
+  standard_deviation: 437207.1923015873 }
+{ _id: 12,
+  total_orders: 47,
+  ca: 11543.783792071896,
+  tva: 1702.740634831768,
+  average_basket: 245.61242110791267,
+  standard_deviation: 280388.08455992903 }
+{ _id: 5,
+  total_orders: 67,
+  ca: 19274.814819549134,
+  tva: 2812.0642707055736,
+  average_basket: 287.68380327685276,
+  standard_deviation: 305561.6370910448 }
+{ _id: 6,
+  total_orders: 58,
+  ca: 14960.191129292793,
+  tva: 2215.738712172055,
+  average_basket: 257.93432981539297,
+  standard_deviation: 403031.68652385054 }
+{ _id: 4,
+  total_orders: 51,
+  ca: 12430.488691782914,
+  tva: 1818.5721242819448,
+  average_basket: 243.73507238790026,
+  standard_deviation: 402750.85546241835 }
+{ _id: 11,
+  total_orders: 41,
+  ca: 9173.066402981069,
+  tva: 1430.5629184966642,
+  average_basket: 223.73332690197728,
+  standard_deviation: 341697.309300813 }
+
+real    0m0.449s
+user    0m0.385s
+sys     0m0.081s
+
+----------------------------------------------------
+
+Number of random item in DB : 10000
+DB DONE!
+
+Launch script :
+
+{ _id: 5,
+  total_orders: 919,
+  ca: 223999.40239793554,
+  tva: 33703.426350201415,
+  average_basket: 243.74254885520733,
+  standard_deviation: 356367.4701918752 }
+{ _id: 1,
+  total_orders: 743,
+  ca: 191596.42748922255,
+  tva: 28522.880105523553,
+  average_basket: 257.86867764363734,
+  standard_deviation: 306830.32995854644 }
+{ _id: 7,
+  total_orders: 746,
+  ca: 186511.99657548917,
+  tva: 28368.537120791465,
+  average_basket: 250.01608120038765,
+  standard_deviation: 412180.22676626453 }
+{ _id: 9,
+  total_orders: 789,
+  ca: 194706.83624578937,
+  tva: 29584.004735424543,
+  average_basket: 246.77672527983444,
+  standard_deviation: 381755.4437164554 }
+{ _id: 11,
+  total_orders: 775,
+  ca: 197784.00225702874,
+  tva: 30145.193352872433,
+  average_basket: 255.20516420261774,
+  standard_deviation: 342094.3686571828 }
+{ _id: 4,
+  total_orders: 905,
+  ca: 229932.7145417894,
+  tva: 34418.18109452408,
+  average_basket: 254.06929783623139,
+  standard_deviation: 360637.67702845304 }
+{ _id: 10,
+  total_orders: 808,
+  ca: 214733.31662771862,
+  tva: 32074.243312556708,
+  average_basket: 265.759055232325,
+  standard_deviation: 368386.0581246906 }
+{ _id: 6,
+  total_orders: 964,
+  ca: 261112.37587694358,
+  tva: 39282.17480863117,
+  average_basket: 270.863460453261,
+  standard_deviation: 315453.8251884855 }
+{ _id: 3,
+  total_orders: 971,
+  ca: 258759.25272344585,
+  tva: 38690.54966168555,
+  average_basket: 266.4873869448464,
+  standard_deviation: 364997.6133990216 }
+{ _id: 8,
+  total_orders: 787,
+  ca: 209522.2583513809,
+  tva: 31607.275712914216,
+  average_basket: 266.2290449191625,
+  standard_deviation: 406963.89724745875 }
+{ _id: 12,
+  total_orders: 745,
+  ca: 192984.63553717485,
+  tva: 29243.788180219086,
+  average_basket: 259.03977924453,
+  standard_deviation: 314735.64482621924 }
+{ _id: 2,
+  total_orders: 848,
+  ca: 226780.65008945786,
+  tva: 34039.84700925936,
+  average_basket: 267.4300118979456,
+  standard_deviation: 391128.5376087657 }
+
+real    0m0.646s
+user    0m0.389s
+sys     0m0.082s
+
+----------------------------------------------------
+
+Number of random item in DB : 50000
+DB DONE!
+
+Launch script :
+
+{ _id: 7,
+  total_orders: 3791,
+  ca: 994661.069470781,
+  tva: 149871.1078427013,
+  average_basket: 262.3743258957481,
+  standard_deviation: 437799.8071490372 }
+{ _id: 12,
+  total_orders: 3904,
+  ca: 1030746.0660057587,
+  tva: 154553.32360239513,
+  average_basket: 264.0230701859013,
+  standard_deviation: 325887.24640658294 }
+{ _id: 1,
+  total_orders: 3918,
+  ca: 1035047.625301963,
+  tva: 156226.51634335137,
+  average_basket: 264.1775460188777,
+  standard_deviation: 308781.3001133444 }
+{ _id: 3,
+  total_orders: 4899,
+  ca: 1264759.1877856322,
+  tva: 188733.6195285006,
+  average_basket: 258.16680705973306,
+  standard_deviation: 392911.0836376914 }
+{ _id: 6,
+  total_orders: 4621,
+  ca: 1210369.1556373602,
+  tva: 181702.01882952178,
+  average_basket: 261.9279713562779,
+  standard_deviation: 320746.00001808413 }
+{ _id: 11,
+  total_orders: 3690,
+  ca: 968954.3863357631,
+  tva: 145517.59442129388,
+  average_basket: 262.5892645896377,
+  standard_deviation: 338662.3578096432 }
+{ _id: 4,
+  total_orders: 4608,
+  ca: 1206591.0814316375,
+  tva: 180212.29370795487,
+  average_basket: 261.84702288012966,
+  standard_deviation: 367448.83346477867 }
+{ _id: 8,
+  total_orders: 3832,
+  ca: 1032792.3142900323,
+  tva: 153489.2750882397,
+  average_basket: 269.5178273199458,
+  standard_deviation: 418738.4264969076 }
+{ _id: 2,
+  total_orders: 4306,
+  ca: 1108479.6097334377,
+  tva: 166576.57239763968,
+  average_basket: 257.4267556278304,
+  standard_deviation: 408968.12543302757 }
+{ _id: 5,
+  total_orders: 4821,
+  ca: 1264309.3089353389,
+  tva: 190424.99814557334,
+  average_basket: 262.250427076403,
+  standard_deviation: 336531.43567203206 }
+{ _id: 10,
+  total_orders: 3803,
+  ca: 1005740.0289075462,
+  tva: 150496.19937028261,
+  average_basket: 264.4596447298307,
+  standard_deviation: 369690.4960790034 }
+{ _id: 9,
+  total_orders: 3807,
+  ca: 1004801.6630852326,
+  tva: 151779.55110028342,
+  average_basket: 263.9352936919445,
+  standard_deviation: 383581.3384548989 }
+
+real    0m1.493s
+user    0m0.420s
+sys     0m0.088s
+
+----------------------------------------------------
+
+Number of random item in DB : 100000
+DB DONE!
+
+Launch script :
+
+{ _id: 11,
+  total_orders: 7398,
+  ca: 1925935.466585388,
+  tva: 287881.02463791805,
+  average_basket: 260.3319095141103,
+  standard_deviation: 341032.0527571438 }
+{ _id: 4,
+  total_orders: 9348,
+  ca: 2460905.6645978997,
+  tva: 369291.73877120664,
+  average_basket: 263.25477798437095,
+  standard_deviation: 359382.0896858615 }
+{ _id: 9,
+  total_orders: 7487,
+  ca: 1982511.1745376391,
+  tva: 296120.30633351265,
+  average_basket: 264.79379919028173,
+  standard_deviation: 385751.036948139 }
+{ _id: 8,
+  total_orders: 7712,
+  ca: 1997061.1895920765,
+  tva: 298081.75735479814,
+  average_basket: 258.9550297707568,
+  standard_deviation: 405098.7145361298 }
+{ _id: 3,
+  total_orders: 9643,
+  ca: 2476581.489693387,
+  tva: 371262.1902894765,
+  average_basket: 256.82686816274884,
+  standard_deviation: 383068.90714589687 }
+{ _id: 5,
+  total_orders: 9798,
+  ca: 2565778.76657604,
+  tva: 386175.29245139565,
+  average_basket: 261.8676022224985,
+  standard_deviation: 343751.38343881746 }
+{ _id: 1,
+  total_orders: 7700,
+  ca: 2022726.328749298,
+  tva: 302371.4220497467,
+  average_basket: 262.69173100640234,
+  standard_deviation: 304881.66033855197 }
+{ _id: 7,
+  total_orders: 7639,
+  ca: 2030446.7056755705,
+  tva: 304526.10413903533,
+  average_basket: 265.8000661965664,
+  standard_deviation: 425415.08013083955 }
+{ _id: 10,
+  total_orders: 7679,
+  ca: 2023792.6334927175,
+  tva: 301784.935720509,
+  average_basket: 263.5489820930743,
+  standard_deviation: 367650.8854795416 }
+{ _id: 2,
+  total_orders: 8759,
+  ca: 2308301.2173794475,
+  tva: 346080.78020377306,
+  average_basket: 263.53478906033195,
+  standard_deviation: 413632.65187489823 }
+{ _id: 12,
+  total_orders: 7629,
+  ca: 2034794.0132993783,
+  tva: 304398.19202366954,
+  average_basket: 266.7183134486012,
+  standard_deviation: 314473.1051802486 }
+{ _id: 6,
+  total_orders: 9208,
+  ca: 2369879.065190314,
+  tva: 353524.3918976216,
+  average_basket: 257.37174904325735,
+  standard_deviation: 320852.3468449066 }
+
+real    0m2.554s
+user    0m0.458s
+sys     0m0.094s

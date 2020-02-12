@@ -10,7 +10,6 @@ const dbName = "test";
 mongodb
   .connect(dburl)
   .then(client => {
-    console.log("OK!");
     const db = client.db(dbName);
 
     const curs = db.collection("orders").aggregate([
